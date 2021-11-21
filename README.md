@@ -28,4 +28,4 @@ None at current time
 
 ### License
 
-[Apache License 2.0](https://github.com/Corgibyte/number-neighborhood/blob/main/LICENSE), Copyright 2021 Hannah Young.
+[Hippocratic License 2.1](https://github.com/Corgibyte/[PROJECT]/blob/main/LICENSE.md), Copyright 2021 Hannah Young.
